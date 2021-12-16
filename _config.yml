@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Enis Simsar"
   avatar           : "profile.png"
-  bio              : "Master of Science in Computer Science at Techincal University of Munich"
+  bio              : "Master of Science in Computer Science at the Technical University of Munich"
   location         : "Munich, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xDvFUb4AAAAJ&hl=en"
-  email            :
+  email            : "enisimsar@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
