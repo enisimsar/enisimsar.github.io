@@ -60,6 +60,8 @@
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
     <a class="button btn btn--info" target="_blank" style="text-decoration:none;" href="{{ post.paperurl }}">Project Page</a>
+    {% elsif post.portfoliourl %}
+    <a class="button btn btn--info" target="_blank" style="text-decoration:none;" href="{{ post.portfoliourl }}">Project Page</a>
     {% endif %}
 
   </article>
