@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I  am an Informatics Master's student at the Technical University of Munich. I earned my B.Sc. in Computer Engineering from Bogazici University, Istanbul.
+Welcome! I'm a Ph.D. student in Informatics at ETH Zurich. I received my Informatics Master's degree from Technical University of Munich and B.Sc. in Computer Engineering from Bogazici University, Istanbul.
 
-I am interested in Computer Vision and Natural Language Processing, specially image generation with generative adversarial networks and neural radiance fields. You can see my <a href="/publications">publications</a> and <a href="/portfolio">portfolio</a>.
+I have a keen interest in Computer Vision and Natural Language Processing, with a particular focus on image generation using generative adversarial networks and neural radiance fields. If you're interested, you can take a look at my  <a href="/publications">publications</a> and <a href="/portfolio">portfolio</a>.

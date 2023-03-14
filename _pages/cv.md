@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Informatics, ETH Zurich, 2028 (expected)
+* M.S. in Informatics, Technical University of Munich, 2022
 * B.S. in Computer Engineering, Bogazici University, 2019
-* M.S. in Informatics, Technical University of Munich, 2022 (expected)
 
 Work experience
 ======
